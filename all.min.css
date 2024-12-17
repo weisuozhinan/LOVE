@@ -786,7 +786,7 @@ body,button {
 	color:#127184
 }
 .page-29 {
-	background:#0d85d1;
+	background:#fdfdfd;
 	padding:0
 }
 .page-29 h3 {
@@ -794,7 +794,7 @@ body,button {
 	z-index:2;
 	width:100%;
 	text-align:center;
-	color:#eef
+	color:rgb(233, 236, 9)
 }
 .page-30 {
 	background:#fff url(img/iali76_bg.png) center bottom repeat-x;
@@ -826,10 +826,6 @@ body,button {
 .page-34 h3 {
 	color:#fff
 }
-.page-35 {
-	background:#fff url(img/iali8_bg.png) left bottom repeat-x;
-	padding:0
-}
 .page-35 img {
 	position:absolute;
 	bottom:0;
@@ -840,7 +836,7 @@ body,button {
 	position:absolute;
 	right:10%;
 	top:5%;
-	color:green;
+	color:rgba(166, 23, 233, 0.829);
 	z-index:2;
 	font-size:2em
 }
@@ -893,7 +889,7 @@ body,button {
 	position:absolute;
 	top:35%;
 	width:100%;
-	text-align:center
+	text-align:right
 }
 .page-42 {
 	background-color:#c1c567
@@ -904,7 +900,19 @@ body,button {
 	left:1em
 }
 .page-42 h3 {
-	font-size:2em
+	position:absolute;
+	top:1em;
+	right:30%;
+	margin-right:-40%;
+	padding:0;
+	margin-top:0;
+	width:10em;
+	text-align:left
+}
+.page-42 h3 span {
+	display:inline-block;
+	width:1em;
+	vertical-align:top
 }
 .page-43 {
 	background-color:#6b79ad
